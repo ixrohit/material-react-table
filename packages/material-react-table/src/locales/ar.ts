@@ -73,7 +73,7 @@ export const MRT_Localization_AR: MRT_Localization = {
   save: 'حفظ',
   search: 'بحث',
   selectedCountOfRowCountRowsSelected:
-    '{selectedCount} ل {rowCount} row(s) المحدد',
+    '{selectedCount} ل {rowCount} صف (صفوف)المحدد',
   select: 'اختيار',
   showAll: 'عرض الكل',
   showAllColumns: 'إظهار كافة الأعمدة',
